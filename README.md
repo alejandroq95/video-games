@@ -1,2 +1,2 @@
 # video-games
-Repositorio de practica de espacio académico de programación de video juegos
+Repositorio de práctica del espacio académico de Programación de video juegos.
